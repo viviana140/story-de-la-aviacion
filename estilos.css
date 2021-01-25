@@ -1,0 +1,23 @@
+a {
+ background:#E6E7DB;
+ color:#CF6A54;
+ padding:10px;
+ }
+body { 
+ margin:4px  5px 5px 4px;
+ border:3px solid #000 ;
+}
+img {
+ width:500px
+ margin:200px 200px;
+ display:block;
+ border-radius:50px;
+}
+div a {
+ color:aqua;
+ background:white;
+}
+p {
+ background:white;
+ width:85%;
+}
